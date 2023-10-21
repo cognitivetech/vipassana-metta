@@ -1,6 +1,6 @@
-# A Glossary of Pali and Buddhist Terms 
+# A Dhamma Glossary of Pali, Hindi and other Buddhist Terms 
 
-[This glossary](https://www.accesstoinsight.org/glossary.html) [from *Access to Insight*] covers many of the Pali words and technical terms.
+This glossary (adapted from [*Access to Insight*](https://www.accesstoinsight.org/glossary.html)) covers many of the Hindi, Sanskrit and Pali terms used during a Vipassana meditation retreat.
 
 ## A  
 ### Abhidhamma
@@ -30,8 +30,17 @@
 ### ānāpānasati
 - Mindfulness of breathing. A meditation practice in which one maintains one's attention and mindfulness on the sensations of breathing. 
 
+### Anantā
+[[Hindi](https://www.collinsdictionary.com/dictionary/hindi-english/%E0%A4%85%E0%A4%A8%E0%A4%82%E0%A4%A4)]
+
+infinite 
+
 ### anattā
 - Not-self; ownerless. 
+
+### Anga [[Sanskrit](https://www.wisdomlib.org/definition/anga#sanskrit)]
+
+The body
 
 ### anicca
 - Inconstant; unsteady; impermanent.
@@ -104,6 +113,9 @@
 ### bodhi-pakkhiya-dhammā
 - "Wings to Awakening" — seven sets of principles that are conducive to Awakening and that, according to the Buddha, form the heart of his teaching: [1] the four frames of reference (see satipaṭṭhāna); [2] four right exertions (sammappadhāna) — the effort to prevent unskillful states from arising in the mind, to abandon whatever unskillful states have already arisen, to give rise to the good, and to maintain the good that has arisen; [3] four bases of success (iddhipāda) — desire, persistence, intentness, circumspection; [4] five dominant factors (indriya) — conviction, persistence, mindfulness, concentration, discernment; [5] five strengths (bala) — identical with [4]; [6] seven factors for Awakening (bojjhaṅga) — mindfulness, investigation of phenomena, persistence, rapture (see pīti), serenity, concentration, equanimity; and [7] the eightfold path (magga) — Right View, Right Attitude, Right Speech, Right Activity, Right Livelihood, Right Effort, Right Mindfulness, Right Concentration. 
 
+### Bodhi [[Pali\Sanskrit](https://www.newworldencyclopedia.org/entry/Bodhi)]
+Liberation
+
 ### bodhisatta
 - "A being (striving) for Awakening"; the term used to describe the Buddha before he actually become Buddha, from his first aspiration to Buddhahood until the time of his full Awakening. Sanskrit form: Bodhisattva.
 
@@ -164,12 +176,22 @@
 ### evaṃ
 - Thus; in this way. This term is used in Thailand as a formal closing to a sermon.
 
+## G
+### Guna [Sanskrit](https://en.wikipedia.org/wiki/Gu%E1%B9%87a)
+
+In Sanskrit, the word, guna, can be translated in a variety of ways depending on the context. However, when referring to the three gunas of nature, guna means “string,” “quality,” or “virtue.” - [Yogapedia](https://www.yogapedia.com/definition/5292/guna)
+
 ## H  
 ### Hīnayāna
 - "Inferior Vehicle," originally a pejorative term — coined by a group who called themselves followers of the Mahāyāna, the "Great Vehicle" — to denote the path of practice of those who adhered only to the earliest discourses as the word of the Buddha. Hinayanists refused to recognize the later discourses, composed by the Mahayanists, that claimed to contain teachings that the Buddha felt were too deep for his first generation of disciples, and which he thus secretly entrusted to underground serpents. The Theravāda school of today is a descendent of the Hīnayāna.
 
 ### hiri-ottappa
 - "Conscience and concern"; "moral shame and moral dread." These twin emotions — the "guardians of the world" — are associated with all skillful actions. Hiri is an inner conscience that restrains us from doing deeds that would jeopardize our own self-respect; ottappa is a healthy fear of committing unskillful deeds that might bring about harm to ourselves or others. See kamma. 
+
+### Hridaya
+[[Sanskrit](https://www.wisdomlib.org/definition/hridaya#sanskrit)]
+
+The heart, soul, mind
 
 ## I  
 ### idappaccayatā
@@ -179,6 +201,10 @@
 - Faculties; mental factors. In the suttas the term can refer either to the six sense media (āyatana) or to the five mental factors of saddhā (conviction), viriya (persistence), sati (mindfulness), samādhi (concentration), and paññā (discernment); see bodhi-pakkhiya-dhammā.
 
 ## J  
+### Jage [[Hindi](https://dict.hinkhoj.com/%E0%A4%9C%E0%A4%BE%E0%A4%97%E0%A5%87-meaning-in-english.words)]
+
+Awake
+
 ### jhāna [Skt. dhyāna]
 - Mental absorption. A state of strong concentration focused on a single physical sensation (resulting in rūpa jhāna) or mental notion (resulting in arūpa jhāna). Development of jhāna arises from the temporary suspension of the five hindrances (see nīvaraṇa) through the development of five mental factors: vitakka (directed thought), vicāra (evaluation), pīti (rapture), sukha (pleasure), and ekaggatārammana (singleness of preoccupation). 
 
@@ -314,6 +340,10 @@
 ### papañca
 - Complication, proliferation, objectification. The tendency of the mind to proliferate issues from the sense of "self." This term can also be translated as self-reflexive thinking, reification, falsification, distortion, elaboration, or exaggeration. In the discourses, it is frequently used in analyses of the psychology of conflict. 
 
+### Para [[Sanskrit](https://www.yogapedia.com/definition/5719/para)]
+
+Para is a Sanskrit word which translates literally to mean "supreme," "highest" or "absolute." It is found in a number of different terms and phrases linked to yoga. For example, the phrase para tattva means "supreme truth." It is used to refer to teachings that represent the highest embodiment of truth and is used to describe the Supreme/Absolute Reality. 
+
 ### pāramī, pāramitā
 - Perfection of the character. A group of ten qualities developed over many lifetimes by a bodhisatta, which appear as a group in the Pali canon only in the Jataka ("Birth Stories"): generosity (dāna), virtue (sīla), renunciation (nekkhamma), discernment (paññā), energy/persistence (viriya), patience/forbearance (khanti), truthfulness (sacca), determination (adhiṭṭhāna), good will (mettā), and equanimity (upekkhā). 
 
@@ -322,9 +352,6 @@
 
 ### parisā
 - Following; assembly. The four groups of the Buddha's following that include monks, nuns, laymen, and laywomen. Compare saṅgha. See bhikkhu, bhikkhunī, upāsaka/upāsikā.
-
-### pariyatti
-- Theoretical understanding of Dhamma obtained through reading, study, and learning. See paṭipatti and paṭivedha. 
 
 ### paṭicca-samuppāda
 - Dependent co-arising; dependent origination. A map showing the way the aggregates (khandha) and sense media (āyatana) interact with ignorance (avijjā) and craving (taṇhā) to bring about stress and suffering (dukkha). As the interactions are complex, there are several versions of paṭicca-samuppāda given in the suttas. In the most common one, the map starts with ignorance. In another common one, the map starts with the interrelation between name (nāma) and form (rūpa) on the one hand, and sensory consciousness (viññāṇa) on the other. [MORE: SN 12.2, DN 15 ]
@@ -335,7 +362,13 @@
 ### paṭipadā
 - Road, path, way; the means of reaching a goal or destination. The "Middle way" (majjhima-paṭipadā) taught by the Buddha; the path of practice described in the fourth noble truth (dukkhanirodhagāminī-paṭīpadā). 
 
+### pariyatti
+([pari](https://www.wisdomlib.org/definition/pari#pali) "promote" Pali)
+- Theoretical understanding of Dhamma obtained through reading, study, and learning. See paṭipatti and paṭivedha. 
+
 ### paṭipatti
+([paṭi](https://en.m.wiktionary.org/wiki/pa%E1%B9%ADi-) / pacc prefix "moving towards" Sanskrit)
+
 - The practice of Dhamma, as opposed to mere theoretical knowledge (pariyatti). See also paṭivedha. 
 
 ### paṭivedha
@@ -359,8 +392,16 @@
 ### puñña
 - Merit; worth; the inner sense of well-being that comes from having acted rightly or well and that enables one to continue acting well.
 
+### Punya [[Sanskrit](https://en.wikipedia.org/wiki/Punya_(Hinduism)]
+
+It generally refers to virtue or merit, and the activities that allow one to acquire this attribute, in order to achieve liberation from samsara, the cycle of birth and death in the material world.[2]
+
 ### puthujjana
 - One of the many-folk; a "worlding" or run-of-the-mill person. An ordinary person who has not yet realized any of the four stages of Awakening (see magga). Compare ariya-puggala.
+
+### Pratikṣaṇa [[Sanskrit](https://www.wisdomlib.org/definition/pratikshana#sanskrit)]
+
+(प्रतिक्षण) refers to “continually” (transitory), according to the 11th century Jñānārṇava, a treatise on Jain Yoga in roughly 2200 Sanskrit verses composed by Śubhacandra.—Accordingly, “Fool, having formed a delight in pleasure which is produced by the objects of the senses [and is] continually transitory (pratikṣaṇa-vinaśvara), the three worlds are destroyed”.
 
 ## R  
 ### rāga
@@ -472,6 +513,10 @@
 ### sīma
 - Boundary or territory within which the monastic saṅgha's formal acts (upasampadā, pātimokkha recitation, settling of disputes, etc.) must be performed in order to be valid. 
 
+### Sisa [[Hindi\Sanskrit](https://www.wisdomlib.org/definition/sisa)]
+
+Top of Head
+
 ### sotāpanna
 - Stream winner. A person who has abandoned the first three of the fetters that bind the mind to the cycle of rebirth (see saṃyojana) and has thus entered the "stream" flowing inexorably to nibbāna, ensuring that one will be reborn at most only seven more times, and only into human or higher realms. 
 
@@ -495,6 +540,9 @@
 
 ### sukha
 - Pleasure; ease; satisfaction. In meditation, a mental quality that reaches full maturity upon the development of the third level of jhāna.
+
+### Sukhi
+happy
 
 ### sutta [Skt. sūtra]
 - Literally, "thread"; a discourse or sermon by the Buddha or his contemporary disciples. After the Buddha's death the suttas were passed down in the Pali language according to a well-established oral tradition, and were finally committed to written form in Sri Lanka around 100 BCE. More than 10,000 suttas are collected in the Sutta Piṭaka, one of the principal bodies of scriptural literature in Theravāda Buddhism. The Pali Suttas are widely regarded as the earliest record of the Buddha's teachings. 
@@ -604,3 +652,11 @@
 ## WXYZ  
 ### yakkha
 - One of a special class of powerful "non-human" beings — sometimes kindly, sometimes murderous and cruel — corresponding roughly to the fairies and ogres of Western fairy tales. The female (yakkhinī) is generally considered more treacherous than the male. 
+
+## Sources 
+* [Access to Insight](https://www.accesstoinsight.org/glossary.html)
+* [The Pali Text Society's Pali-English dictionary](https://dsal.uchicago.edu/dictionaries/pali/) Digital Dictionaries of South Asia
+* [Collins Hindi Dictionary](https://www.collinsdictionary.com/dictionary/english-hindi)
+* [Yogapedia](https://www.yogapedia.com/)
+* [Hindi Dictionary](https://www.lexilogos.com/english/hindi_dictionary.htm) Lexilogos
+* [Wisdom Library](https://www.wisdomlib.org/)

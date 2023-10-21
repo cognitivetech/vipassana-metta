@@ -1,79 +1,4 @@
-# Translations of Goeknas Chanting
-
-## [S N Goenka: Buddha's Chant As Sung](https://www.movedbylove.org/projects/tunes/143)
-
-"If there is no peace in the minds of individuals, how can there be peace in the world? Make peace in your own mind first"
-
-### Lyrics and translation:
-
-Anicca vata sankhara, uppadavaya-dhammino
-Impermanence is the nature of all conditioned phenomenon. They arise and pass away, again and again, with great rapidity.
-
-Uppajjitva nirujjhanti, (2x)
-tesam vupasamo sukho.
-When past sensations arise and are met with awareness/equanimity, their cessation brings true happiness.
-
-Aneka-jati samsaram
-sandhavissam anibbisam,
-Through countless births in the cycle of existence
-I have run, in vain
-
-Gahakarakam gavesanto
-dukkha-jati-punappunam.
-seeking the builder of this house; and again and again I faced the discomfort of new birth.
-
-Gahakaraka! Dithosi,
-puna geham na kahasi.
-Oh housebuilder! Now you are seen.
-You shall not build a house again for me.
-
-Sabba te phasuka bhagga,
-gahakutam visankhitam.
-All your beams are broken, the ridgepole is shattered.
-
-Visankhara-gatam cittam,
-tanhanam khayamajjhaga.
-The mind has become freed from conditioning; the end of craving has been reached.
-
-Sabbe sankhara anicca'ti.
-yada pannaya passati,
-Impermanent are all compounded things, when one perceives this with insight.
-
-Atha nibbindati dukkhe.
-esa maggo visuddhiya.
-then one turns away from suffering; this is the path of purification.
-
-Sabbesu cakkavajesu
-yakkha deva ca brahmano,
-May the holy entities of all the universes
-
-Yam amhehi katam punnam,
-sabba sampatti sadhikam.
-rejoice in this wholesome meditation process performed by us, which is productive of all happiness.
-
-Sabbe tam anumoditva,
-samagga sasane rata,
-May they all, unitedly devoted to the teaching
-
-pamada rahita hontu
-arakkhasu visesato.
-be without negligence, especially in giving protection.
-
-Punna bhagamidam c'annam,
-samam dadama karitam.
-We share with all equally the merit of this meditation and other wholesome deeds.
-
-Anumodantu tam sabbe,
-medini thatu sakkhike.
-May they all accept with joy our sharing, and may the earth stand witness to it!
-
-Bhavatu sabbe mangalam x3
-May all beings be happy
-
-Lyrics and translation: Birju Pandyaâ€‹
-https://puredhamma.net/forums/topic/correct-translation-of-this-beauiful-goenka-chant/
-
-## Goenka Chants from Vipassana Course
+# Goenka Morning Chants
 Come People of the World 
 *Translations of selected Hindi couplets.*
 
@@ -85,7 +10,7 @@ Come People of the World
 
 \***Hindi followed by English Translations**
 ### Day 1 
-Āo logoṅ jagata ke, caleṅ Dharama ke pantha. Isa patha calate satpuruśha, isa patha calate santa. Dharma pantha hī śhānti patha, Dharma pantha sukha pantha. Jisane pāyā Dharma patha, maṅgala milā ananta. Āo mānava-mānavī, caleṅ Dharama ke pantha. Kadama-kadama calate hue, kareṅ dukhoṅ kā anta. Sāṅsa dekhate dekhate, citta avicala ho jāya. Avicala citta nirmala bane, sahaja mukta ho jāya. Dharma Dharma to saba kaheṅ, Dharma na samajhe koya. Nirmala mana kā ācaraṇa, śhuddha Dharama hai soya. Dharma na Hindū Bauddha hai, Sikkha na Muslima Jaina. Dharma citta ki śhuddhatā, Dharma śhānti sukha caina.
+Āo logoṅ jagata ke, caleṅ Dharama ke pantha. Isa patha calate satpuruśha, isa patha calate santa. Dharma pantha hī śhānti patha, Dharma pantha sukha pantha. Jisane pāyā Dharma patha, maṅgala milā Anantā. Āo mānava-mānavī, caleṅ Dharama ke pantha. Kadama-kadama calate hue, kareṅ dukhoṅ kā anta. Sāṅsa dekhate dekhate, citta avicala ho jāya. Avicala citta nirmala bane, sahaja mukta ho jāya. Dharma Dharma to saba kaheṅ, Dharma na samajhe koya. Nirmala mana kā ācaraṇa, śhuddha Dharama hai soya. Dharma na Hindū Bauddha hai, Sikkha na Muslima Jaina. Dharma citta ki śhuddhatā, Dharma śhānti sukha caina.
 
 Come, people of the world! Let us walk the path of Dhamma. On this path walk holy ones, on this path walk saints. The path of Dhamma is the path of peace, the path of Dhamma is the path of happiness. Whoever attains the path of Dhamma gains endless happiness. Come, men and women! Let us walk the path of Dhamma. Walking step by step, let us make an end of suffering. Observing breath after breath, the mind becomes still. Unwavering, the mind becomes pure and naturally finds liberation. Everyone talks about Dhamma but no one understands it. Practising purity of mind— this is true Dhamma. Dhamma is not Hindu or Buddhist, not Sikh, Muslim, or Jain; Dhamma is purity of heart, peace, happiness, serenity.
 
