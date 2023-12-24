@@ -11,6 +11,21 @@
 * [The Ancient Roots of the U Ba Khin Vipassanā Meditation](https://www.buddhismuskunde.uni-hamburg.de/pdf/5-personen/analayo/ancientroots.pdf) ANĀLAYO
   > In spite of this paucity of records from Burma, however, there is evidence that this meditation practice reaches far back into the history of Indian Buddhism.
 
+### which branch of buddhism does vipassana meditation derive from?
+Vipassana meditation has its roots in the Theravada tradition of Buddhism. The term "Vipassana" is a Pali word that means "clear seeing" or "insight." In the context of Buddhist meditation, Vipassana refers to a form of meditation that aims to develop clear insight into the nature of reality.
+
+Key points about Vipassana meditation within the Theravada tradition:
+
+1. **Theravada Influence:** Vipassana meditation is closely associated with the Theravada school, which is known for its emphasis on the original teachings of the historical Buddha as preserved in the Pali Canon.
+
+2. **Focus on Insight:** Vipassana meditation is a form of insight meditation that involves observing the present moment with mindfulness and awareness. Practitioners systematically examine the sensations, thoughts, and feelings that arise in their experience to gain insight into the impermanent, unsatisfactory, and non-self nature of phenomena.
+
+3. **Connection to Satipatthana Sutta:** The practice of Vipassana is often linked to the Satipatthana Sutta, a discourse in the Pali Canon that outlines the foundations of mindfulness. The Satipatthana Sutta provides guidance on mindfulness of body, feelings, mind, and mental phenomena, which are central to Vipassana practice.
+
+4. **Prominent Teachers:** Various contemporary Vipassana meditation teachers, such as S.N. Goenka, have played a significant role in popularizing and spreading Vipassana meditation globally. The tradition often emphasizes silent meditation retreats, where practitioners undertake periods of intensive meditation practice.
+
+While Vipassana meditation has strong ties to Theravada Buddhism, it's important to note that the practice of mindfulness and insight meditation is not exclusive to Theravada. Similar principles and practices can be found in other Buddhist traditions, including some Mahayana schools. However, the systematic and structured approach of Vipassana, as commonly taught in contemporary settings, has its foundation in the Theravada tradition.
+
 ## Goenka's 10 Day Course Material
 * [Gem Set in Gold a manual of pariyatti containing the Pali and Hindi chanting from a ten-day course of Vipassana Meditation](https://tejash.me/wp-content/uploads/2020/04/Gem-Set-in-Gold.pdf) by S. N. Goenka
   > As a teacher, Goenkaji has always given primary importance to paμipatti, the practical aspect, because it is only the experience of truth through systematic self-introspection that can purify the mind and relieve suffering. This is the gem of the Dhamma. Hand in hand with the practice of meditation, however, is the theoretical foundation, like the protective golden setting for a valuable gem. The firm foundation of pariyatti provides the necessary guidance and inspiration for practitioners to take, and keep taking, proper steps on the Path
